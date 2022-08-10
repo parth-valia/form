@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407685484860",
+    "project_id": "form-864a1",
+    "storage_bucket": "form-864a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407685484860:android:67339c2c8bdfc8e8cd8e39",
+        "android_client_info": {
+          "package_name": "com.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407685484860-8mr1v9rgqnji76eb3rud9vansp0m1mvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.form",
+            "certificate_hash": "1af7c2c5590e45774a6442ef3a33fa8b4bcc6e3c"
+          }
+        },
+        {
+          "client_id": "407685484860-h2eg1jbk06v3d8i50fh0u3krj0caq0jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxUWKHPgNS8dH-bGExLCjwCQ1EjdPvv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407685484860-h2eg1jbk06v3d8i50fh0u3krj0caq0jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
